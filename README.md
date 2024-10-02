@@ -16,7 +16,7 @@
   🔭 I'm currently working on <strong>scalable microservices architecture</strong><br>
   🌱 I'm currently learning <strong>Rust and Kubernetes</strong><br>
   💬 Ask me about <strong>Go, Node.js, and cloud technologies</strong><br>
-  📫 How to reach me: <strong>youremail@example.com</strong>
+  📫 How to reach me: <strong>utkarsh17ife@gmail.com</strong>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,12 +36,4 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="yourusername" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="yourusername" />
 </p>
