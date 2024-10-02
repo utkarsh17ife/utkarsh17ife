@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
 
-<p align="center">
-  <a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/utkarsh-tyagi-33251172/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourusername" height="30" width="40" /></a>
-  <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourusername" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">About Me:</h3>
 <p align="left">
   🔭 I'm currently working on <strong>scalable microservices architecture</strong><br>
